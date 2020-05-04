@@ -190,6 +190,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &55999377
 BoxCollider2D:
@@ -310,6 +312,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &97570508
 BoxCollider2D:
@@ -430,6 +434,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &102579670
 BoxCollider2D:
@@ -550,6 +556,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &139442091
 BoxCollider2D:
@@ -670,6 +678,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &146651324
 BoxCollider2D:
@@ -790,6 +800,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &157222817
 BoxCollider2D:
@@ -910,6 +922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &164858205
 BoxCollider2D:
@@ -1030,6 +1044,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &261119238
 BoxCollider2D:
@@ -1150,6 +1166,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &266495530
 BoxCollider2D:
@@ -1270,6 +1288,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &339886305
 BoxCollider2D:
@@ -1390,6 +1410,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &370347838
 BoxCollider2D:
@@ -1510,6 +1532,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &387639838
 BoxCollider2D:
@@ -1630,6 +1654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &407902759
 BoxCollider2D:
@@ -1750,6 +1776,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &422010059
 BoxCollider2D:
@@ -1949,6 +1977,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &452136205
 BoxCollider2D:
@@ -2069,6 +2099,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &459114080
 BoxCollider2D:
@@ -2189,6 +2221,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &463647703
 BoxCollider2D:
@@ -2309,6 +2343,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &467601504
 BoxCollider2D:
@@ -2429,6 +2465,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &468371571
 BoxCollider2D:
@@ -2549,6 +2587,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &509137931
 BoxCollider2D:
@@ -2669,6 +2709,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &528741723
 BoxCollider2D:
@@ -2789,6 +2831,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &539816752
 BoxCollider2D:
@@ -2909,6 +2953,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &546730997
 BoxCollider2D:
@@ -3029,6 +3075,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &559778557
 BoxCollider2D:
@@ -3149,6 +3197,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &571273898
 BoxCollider2D:
@@ -3269,6 +3319,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &636360680
 BoxCollider2D:
@@ -3389,6 +3441,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &648255038
 BoxCollider2D:
@@ -3509,6 +3563,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &679133905
 BoxCollider2D:
@@ -3629,6 +3685,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &682902269
 BoxCollider2D:
@@ -3749,6 +3807,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &691160337
 BoxCollider2D:
@@ -3869,6 +3929,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &726760113
 BoxCollider2D:
@@ -3989,6 +4051,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &733677344
 BoxCollider2D:
@@ -4109,6 +4173,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &779504050
 BoxCollider2D:
@@ -4229,6 +4295,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &837650258
 BoxCollider2D:
@@ -4349,6 +4417,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &861383089
 BoxCollider2D:
@@ -4469,6 +4539,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &879497617
 BoxCollider2D:
@@ -4589,6 +4661,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &893306642
 BoxCollider2D:
@@ -4784,6 +4858,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &936823817
 BoxCollider2D:
@@ -4904,6 +4980,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &976659770
 BoxCollider2D:
@@ -5024,6 +5102,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1030013709
 BoxCollider2D:
@@ -5144,6 +5224,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1102327800
 BoxCollider2D:
@@ -5264,6 +5346,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1108069476
 BoxCollider2D:
@@ -5384,6 +5468,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1109643936
 BoxCollider2D:
@@ -5504,6 +5590,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1120506361
 BoxCollider2D:
@@ -5624,6 +5712,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1122230512
 BoxCollider2D:
@@ -5744,6 +5834,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1174606502
 BoxCollider2D:
@@ -5864,6 +5956,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1278114954
 BoxCollider2D:
@@ -5984,6 +6078,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1291053821
 BoxCollider2D:
@@ -6104,6 +6200,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1293311496
 BoxCollider2D:
@@ -6224,6 +6322,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1318351905
 BoxCollider2D:
@@ -6344,6 +6444,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1364725157
 BoxCollider2D:
@@ -6476,6 +6578,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1424239951
 BoxCollider2D:
@@ -6596,6 +6700,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1438491751
 BoxCollider2D:
@@ -6716,6 +6822,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1453990509
 BoxCollider2D:
@@ -6836,6 +6944,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1463685584
 BoxCollider2D:
@@ -6956,6 +7066,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1471998585
 BoxCollider2D:
@@ -7076,6 +7188,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1472705981
 BoxCollider2D:
@@ -7196,6 +7310,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1518055670
 BoxCollider2D:
@@ -7316,6 +7432,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1634931932
 BoxCollider2D:
@@ -7436,6 +7554,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1671914049
 BoxCollider2D:
@@ -7556,6 +7676,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1683416498
 BoxCollider2D:
@@ -7676,6 +7798,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1696841335
 BoxCollider2D:
@@ -7796,6 +7920,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1712189373
 BoxCollider2D:
@@ -7916,6 +8042,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1717998069
 BoxCollider2D:
@@ -8036,6 +8164,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1720141412
 BoxCollider2D:
@@ -8156,6 +8286,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1723954758
 BoxCollider2D:
@@ -8276,6 +8408,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1729203941
 BoxCollider2D:
@@ -8396,6 +8530,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1756985830
 BoxCollider2D:
@@ -8516,6 +8652,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1824015799
 BoxCollider2D:
@@ -8636,6 +8774,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1838437642
 BoxCollider2D:
@@ -8756,6 +8896,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1846312722
 BoxCollider2D:
@@ -8876,6 +9018,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1908611413
 BoxCollider2D:
@@ -8996,6 +9140,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1977084878
 BoxCollider2D:
@@ -9116,6 +9262,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &1987073050
 BoxCollider2D:
@@ -9236,6 +9384,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2024073856
 BoxCollider2D:
@@ -9356,6 +9506,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2039015431
 BoxCollider2D:
@@ -9476,6 +9628,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2123900316
 BoxCollider2D:
@@ -9596,6 +9750,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2130017150
 BoxCollider2D:
@@ -9716,6 +9872,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2130237721
 BoxCollider2D:
@@ -9836,6 +9994,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &2135438733
 BoxCollider2D:
@@ -10396,6 +10556,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589969529113068
 Transform:
@@ -10516,6 +10678,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &7602589969622283996
 BoxCollider2D:
@@ -10636,6 +10800,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589969626945300
 Transform:
@@ -10756,6 +10922,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!1 &7602589969827662004
 GameObject:
@@ -10876,6 +11044,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!1 &7602589969868545796
 GameObject:
@@ -10996,6 +11166,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589969965463332
 Transform:
@@ -11223,6 +11395,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &7602589970083397928
 BoxCollider2D:
@@ -11343,6 +11517,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!114 &7602589970192263931
 MonoBehaviour:
@@ -11356,6 +11532,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &7602589970192263932
 BoxCollider2D:
@@ -11476,6 +11654,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589970964405132
 Transform:
@@ -11703,6 +11883,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!1 &7602589971100128992
 GameObject:
@@ -11823,6 +12005,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &7602589971212212152
 BoxCollider2D:
@@ -11943,6 +12127,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589971217095632
 Transform:
@@ -12063,6 +12249,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!61 &7602589971229436408
 BoxCollider2D:
@@ -12183,6 +12371,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!114 &7602589971257254242
 MonoBehaviour:
@@ -12196,6 +12386,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1be401b3cb763a1478b4cecaa58919cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  vfxExplosion: {fileID: 7441305975375167162, guid: d4b4749e001a8844fbb835921a51ab21,
+    type: 3}
   _brakeClip: {fileID: 8300000, guid: a9a6b993aea4e724289286772f90091f, type: 3}
 --- !u!4 &7602589971257254244
 Transform:

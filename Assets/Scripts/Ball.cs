@@ -19,6 +19,7 @@ public class Ball : MonoBehaviour
         paddleToBall = transform.position - paddle.transform.position;
 
         audioSource = GetComponent<AudioSource>();
+        _xPush = Random.Range(-25f, 25f);
     }
     private void Update()
     {

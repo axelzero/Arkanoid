@@ -14,9 +14,6 @@ public class LevelManager : MonoBehaviour
     [SerializeField] private int pointsDestroy = 10;
     [SerializeField] private TextMeshProUGUI _txtScore;
 
-
-
-
     private void Awake()
     {
         int levelCount = FindObjectsOfType<LevelManager>().Length;
@@ -30,7 +27,6 @@ public class LevelManager : MonoBehaviour
             DontDestroyOnLoad(this);
         }
     }
-
     private void Start()
     {
         sceneLoader = FindObjectOfType<SceneLoader>();
@@ -60,5 +56,10 @@ public class LevelManager : MonoBehaviour
         {
             sceneLoader.LoadNextScene();
         }
+    }
+
+    public void GameOver() 
+    {
+        Destroy(gameObject);
     }
 }
