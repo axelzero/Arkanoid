@@ -127,4 +127,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _minX: 1
   _maxX: 0
-  screenWidthInUnits: 21.5
+  screenWidthInUnits: 10
