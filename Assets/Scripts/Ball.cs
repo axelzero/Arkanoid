@@ -5,7 +5,7 @@ using UnityEngine;
 public class Ball : MonoBehaviour
 {
     [SerializeField] AudioClip[] clips;
-    [SerializeField] private float _xPush = 2f;
+    [SerializeField] private float _xPush = 5f;
     [SerializeField] private float _yPush = 15f;
     [SerializeField] private Paddle paddle;
                      private Vector2 paddleToBall;
@@ -13,13 +13,14 @@ public class Ball : MonoBehaviour
                      private bool _isBallOnStartPos = true;
                      private AudioSource audioSource;
 
+    [SerializeField] private float _randomAngle = 0.2f;
+
     private void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
         paddleToBall = transform.position - paddle.transform.position;
 
         audioSource = GetComponent<AudioSource>();
-        _xPush = Random.Range(-25f, 25f);
     }
     private void Update()
     {
@@ -48,10 +49,13 @@ public class Ball : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        Vector2 velocityTweak = new Vector2(Random.Range(0f, _randomAngle), Random.Range(0f, _randomAngle));
+
         if (!_isBallOnStartPos)
         {
             AudioClip clip = clips[Random.Range(0, clips.Length)];
             audioSource.PlayOneShot(clip);
+            rb2d.velocity += velocityTweak;
         }
     }
 }

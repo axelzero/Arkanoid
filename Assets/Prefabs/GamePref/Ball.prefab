@@ -102,7 +102,7 @@ Rigidbody2D:
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!58 &4579384523922729862
 CircleCollider2D:
@@ -133,13 +133,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clips:
-  - {fileID: 8300000, guid: 7c7a1496ab892574ab4c7984cf8305f1, type: 3}
-  - {fileID: 8300000, guid: 0bcf0e8166582e14eb7b7ad2a794913c, type: 3}
-  - {fileID: 8300000, guid: 5ba982626b81a8e42b46c410ede472b5, type: 3}
-  - {fileID: 8300000, guid: cd3e2a2d181363b4fa61e3a4287bc3e3, type: 3}
-  _xPush: 2
-  _yPush: 15
+  - {fileID: 8300000, guid: 12341583f7d23c3499274f6c6535388b, type: 3}
+  _xPush: 10
+  _yPush: 20
   paddle: {fileID: 0}
+  _randomAngle: 2
 --- !u!82 &6361446023527501442
 AudioSource:
   m_ObjectHideFlags: 0
@@ -152,7 +150,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 0
   Mute: 0
